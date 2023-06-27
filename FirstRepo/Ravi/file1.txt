@@ -1,2 +1,4 @@
 today is tuesday
-
+ yes it is
+today's date 27th june
+year 2023
